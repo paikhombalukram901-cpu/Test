@@ -1,0 +1,8 @@
+{
+  "name": "Kaoru SaaS Dashboard",
+  "description": "A professional SaaS-style dashboard for app.kaoru.qzz.io with dark mode aesthetics, task management, and system status monitoring.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
